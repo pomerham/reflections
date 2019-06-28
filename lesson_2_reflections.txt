@@ -1,0 +1,6 @@
+What happens when you initialize a repository? 
+ Created git repo and indexed the content.
+
+Why do you need to do it? 
+
+It allows you to use git version control.
